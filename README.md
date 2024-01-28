@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mzlmkrts
-- 👀 I’m interested in web development, artificial intelligence, machine learning, big data and text analysis (i.e, transformer model).
+- 👀 I’m interested in web development, artificial intelligence, machine learning, big data, and text analysis (i.e, transformer model).
 - 🌱 I’m currently learning HTML, CSS, Javascript, React and Python.
 - 💞️ I’m looking to collaborate on any Javascript and Python projects.
 - 📫 How to reach me via following a-mail: mzlmkrts@gmail.com

@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any Javascript, React and Python projects.
 - 📫 How to reach me via following a-mail: mzlmkrts@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Indeed, I had fun just before starting my academic career!
+- ⚡ Fun fact: Octopuses have three hearts, and one of them stops beating when they swim!
 
 <!---
 mzlmkrts/mzlmkrts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Python.
 - 💞️ I’m looking to collaborate on any Javascript, React and Python projects.
 - 📫 How to reach me via following a-mail: mzlmkrts@gmail.com
-- 😄 Pronouns: Mazi
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Indeed, I had fun just before starting my academic career!
 
 <!---

@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mzlmkrts
+- 👀 I'm an economist with the P.h.D.
 - 👀 I’m interested in web development, artificial intelligence (AI), and big data.
 - 👀 Since AI is like an ocean, I am more into NLP and LLMs.
 - 🌱 I’m currently learning Javascript and React.

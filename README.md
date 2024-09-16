@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzlmkrts
 - 👀 I’m interested in web development, artificial intelligence, and big data.
-- 🌱 I’m currently learning React and Python.
+- 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on any Javascript, React and Python projects.
 - 📫 How to reach me via following a-mail: mzlmkrts@gmail.com
 - 😄 Pronouns: He/Him

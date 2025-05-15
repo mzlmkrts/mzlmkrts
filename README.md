@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @mzlmkrts
-- 👀 I'm an economist with the P.h.D.
-- 👀 I’m interested in web development, artificial intelligence (AI), and big data.
-- 🌱 I’m currently learning Javascript and React.
-- 💞️ I’m looking to collaborate on any Javascript, React and Python projects.
-- 📫 How to reach me via following a-mail: mzlmkrts@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Octopuses have three hearts, and one of them stops beating when they swim!
+### 👋 Hi there, I'm @mzlmkrts
 
-<!---
-mzlmkrts/mzlmkrts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+- 🎓 Economist with a Ph.D., passionate about data-driven solutions  
+- 💻 Interested in web development, artificial intelligence, and big data  
+- 🌱 Currently learning JavaScript and React  
+- 🤝 Looking to collaborate on JavaScript, React, and Python projects  
+- 📬 Contact me: mzlmkrts@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: Octopuses have three hearts — and one stops beating when they swim!

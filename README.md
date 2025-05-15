@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mzlmkrts
 - 👀 I'm an economist with the P.h.D.
 - 👀 I’m interested in web development, artificial intelligence (AI), and big data.
-- 👀 I'm looking a smooth transition into tech industry.
 - 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on any Javascript, React and Python projects.
 - 📫 How to reach me via following a-mail: mzlmkrts@gmail.com

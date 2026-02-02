@@ -7,7 +7,7 @@
     <li>🤖 Exploring <strong>AI agents</strong>, autonomous pipelines, and task automation</li>
     <li>💻 Experienced in <strong>web scraping</strong>, <strong>NLP</strong>, and <strong>machine learning</strong></li>
     <li>🧪 Researching how AI tools improve productivity and automate knowledge work</li>
-    <li>🌱 Front end developer experience with <strong>JavaScript</strong>, <strong>React</strong>, and interested in AI app deployment</li>
+    <li>🌱 Front end developer experience with <strong>JavaScript</strong> and <strong>React</strong>.</li>
     <li>🤝 Open to collaborations on <strong>LLM-based agents</strong> and intelligent frontend tools</li>
     <li>📬 Reach me at: <a href="mailto:mzlmkrts@gmail.com">mzlmkrts@gmail.com</a></li>
     <li>⚡ Fun fact: I use AI agents to debug my life one command at a time!</li>
